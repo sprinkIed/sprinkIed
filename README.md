@@ -2,3 +2,4 @@
 
 ![](https://files.catbox.moe/9aybcg.png)
  
+art by my bff @sterecra
