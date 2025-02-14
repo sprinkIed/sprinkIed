@@ -2,4 +2,3 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4u0y32tpqdlm4tnv7bxcus6tw&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=f4a4c0&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-i used to be github user yaoiss
